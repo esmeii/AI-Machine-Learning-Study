@@ -5,7 +5,7 @@
 <h4> group member : yonsoo, Kim / minkyung, Lee / yonsoo, Kang / eunseong, Park
 </h4>
 <h1> Study </h1>
-- DNN
-- Convolution algorithm
+- DNN<br>
+- Convolution algorithm<br>
 - Image translation
 
