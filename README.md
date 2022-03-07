@@ -8,5 +8,7 @@
 - DNN<br>
 - Convolution algorithm<br>
 - Image translation
+![image](https://user-images.githubusercontent.com/96706954/156948990-70a7a28c-216d-4a56-a217-9da74153ec87.png)
+https://superficial-perfume-146.notion.site/recap-b63052de67df451c9460b3e6c1060703
 <meta property="og:url" content="
 https://superficial-perfume-146.notion.site/recap-b63052de67df451c9460b3e6c1060703"> <meta property="og:title" content="타이틀"> <meta property="og:type" content="website"> <meta property="og:image" content="![image](https://user-images.githubusercontent.com/96706954/156948972-5d07d256-19f6-442b-905c-867f0d48c558.png)"> <meta property="og:description" content="웹사이트를 소개글">
