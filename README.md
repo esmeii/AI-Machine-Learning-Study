@@ -9,3 +9,4 @@
 - Convolution algorithm<br>
 - Image translation
 
+https://superficial-perfume-146.notion.site/recap-b63052de67df451c9460b3e6c1060703
